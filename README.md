@@ -14,3 +14,8 @@ Marketplace: Browse and purchase tokens using Stripe for payment processing.
 IEO Introduction: Learn about IEOs and view current market IEOs through API integration.
 
 Licenses and Partners: Review licenses awarded across countries and explore our partners.
+
+
+Link to the website:
+
+https://jesusmarugan2001.bubbleapps.io/version-test/ai_landing_page_1?debug_mode=true
